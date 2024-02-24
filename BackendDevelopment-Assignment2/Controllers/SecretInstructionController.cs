@@ -42,7 +42,7 @@ Output for Sample Input
 right 234
 right 907
 left 100
-La version fran¸caise figure `a la suite de la version anglaise.
+
 Explanation of Output for Sample Input
 The first instruction is 57234 which is decoded as right 234 because 5 + 7 = 12 which is
 even and 57 is followed by 234.
